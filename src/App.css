@@ -251,6 +251,7 @@ img {
 .alert-primary {
   background: var(--primary-color);
   color: #fff;
+  text-align: center;
 }
 
 .btn-light,
